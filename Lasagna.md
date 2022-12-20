@@ -22,7 +22,7 @@
 
 ## Preparation
 
-Prepare Noodles, Drain. (See Package or Instructions). If using home-made pasta, you'll want to boil them before using them, otherwise you can end up with raw pasta near the center.  
+Prepare Noodles, Drain. (See Package or Instructions). If using [home-made pasta](./Pasta.md), you'll want to boil them before using them, otherwise you can end up with raw pasta near the center.  
 
 Cook Sausage, Beef, Onion over Medium Heat for 10 minutes or until the meat is cooked, breaking up into tiny pieces.  
 
