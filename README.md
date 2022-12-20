@@ -3,8 +3,8 @@ Literally Cooking Recipes
 
 ## Ingredient Recipes
 
-[Pasta](/Pasta.md)
+[Pasta](/Pasta.md) | ⭐⭐⭐⭐⭐
 
 ## Baked Goods
 
-[Lasagna](/Lasagna.md)
+[Lasagna](/Lasagna.md) | ⭐⭐⭐⭐
