@@ -13,7 +13,7 @@ Optional: Garlic Salt in the Flour/Crumbs
 
 ### Sauce:  
 
-3 tbsp Soya Sauce (For flavor, I recommend going to walmart and buying the cheapest, saltiest stuff you can get. Trust me.)  
+3 tbsp Soya Sauce (For flavor, I recommend going and buying the cheapest, saltiest stuff you can get. Trust me. NoName or GreatValue are decent picks.)  
 3 tbsp Water  
 1 Cup of White Sugar  
 1/2 Cup of White Vinegar  
