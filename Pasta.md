@@ -20,7 +20,7 @@ Extract your dough ball, flour your table or counter, as well as a rolling pin, 
 Cut it into strips with a knife, then feed it through your roller at smaller and smaller settings until it's at your desired thickness. Keep in mind it will swell during cooking.  
 Dust flour on each strip as you finish it, to prevent them sticking to each other both before and after cutting.
 
-Once your pasta is cut as desired (or not, if you're planning to make [Lasagna!](../Lasagna.md)) Boil it for approximately 4 minutes to cook. 
+Once your pasta is cut as desired (or not, if you're planning to make [Lasagna!](./Lasagna.md)) Boil it for approximately 4 minutes to cook. 
 
 
 Enjoy your fresh pasta!
