@@ -10,9 +10,9 @@ All ratings are given by me and reflect my tastes.
 
 ## Baked Goods
 
-[Lasagna](/Lasagna.md) | ⭐⭐⭐⭐
-[Shepherds Pie](/Shepherds_Pie.md) | Not Yet Rated
-[Spaghetti Bolonese](/Spaghetti_Bolognese.md) | Not Yet Rated
+[Lasagna](/Lasagna.md) | ⭐⭐⭐⭐  
+[Shepherds Pie](/Shepherds_Pie.md) | Not Yet Rated  
+[Spaghetti Bolonese](/Spaghetti_Bolognese.md) | Not Yet Rated  
 
 ## Chicken
 
