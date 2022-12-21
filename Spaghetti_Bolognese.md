@@ -9,6 +9,7 @@
 -	Water
 -	Pepper
 -	Crushed garlic
+
 ## Steps
 1.	Add 2 tsp salt to 3/4 pot of water
 2.	Brown off 1 kg sectioned mince alone
@@ -24,4 +25,4 @@
 12.	Add 5 tbl tomato sauce
 13.	Cook on low heat for 15 mins with lid on. Stir occasionally. 
 14.	Boil pot of water
-15.	Add spaghetti to water for 3-5 minutes
+15.	Add to Prepared Spaghetti Noodles. (You can always [Make your own!](/Pasta.md))

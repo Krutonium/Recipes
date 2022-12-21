@@ -14,10 +14,11 @@
 - Butter (*10 p.p.*)
 - Salt
 - Milk
+
 ## Steps
 1. Put water on to boil in saucepan and start peeling the potatoes
 2. Add the peeled potatoes to the saucepan
-3. Add the olive oil to heat up and the 
+3. Add the olive oil to heat up, along with the onion
 5. Stir as flat as possible along the bottom of the bowl and soften up the onion
 	- Keep stirring for a minute or so until it becomes about translucent
 6. Add the mince and stir until it browns
@@ -36,6 +37,6 @@
 16. Put in the oven & cook for *15 minutes*
 17. Serve hot
 ## Notes
-- If potatoes are cooked, a sharp knife will easily slide through
+- If potatoes are cooked, a sharp knife will easily slide through. Another good indicator is stabbing with a fork, the fork should go straight through.
 - Something 5 minute mark 
 - You can tell the shepherd's pie is perfectly cooked by little spots of brown on the potato
