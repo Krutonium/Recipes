@@ -7,6 +7,7 @@ All ratings are given by me and reflect my tastes.
 ## Ingredient Recipes
 
 [Pasta](/Pasta.md) | ⭐⭐⭐⭐⭐
+[Spaghetti Bolonese](/Spaghetti_Bolognese.md) | Not Yet Rated
 
 ## Baked Goods
 
