@@ -13,6 +13,7 @@ All ratings are given by me and reflect my tastes.
 [Lasagna](/Lasagna.md) | ⭐⭐⭐⭐  
 [Shepherds Pie](/Shepherds_Pie.md) | Not Yet Rated  
 [Spaghetti Bolonese](/Spaghetti_Bolognese.md) | Not Yet Rated  
+[French Fries](/French_Fries_Baked.md) | ⭐⭐⭐⭐  
 
 ## Chicken
 
