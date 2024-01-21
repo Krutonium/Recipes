@@ -19,3 +19,6 @@ All ratings are given by me and reflect my tastes.
 
 [Sticky Chicken](/Sticky_Chicken.md) | ⭐⭐⭐⭐⭐
 
+## Drinks
+
+[Eggnog](/EggNog.md) | ⭐⭐⭐⭐⭐
