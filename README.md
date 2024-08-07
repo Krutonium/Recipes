@@ -17,7 +17,8 @@ All ratings are given by me and reflect my tastes.
 
 ## Chicken
 
-[Sticky Chicken](/Sticky_Chicken.md) | ⭐⭐⭐⭐⭐
+[Sticky Chicken](/Sticky_Chicken.md) | ⭐⭐⭐⭐⭐  
+[Cheddar Baked Chicken](/Cheddar_Chicken.md) | ⭐⭐⭐⭐⭐
 
 ## Drinks
 
